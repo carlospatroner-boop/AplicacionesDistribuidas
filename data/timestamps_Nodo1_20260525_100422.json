@@ -1,0 +1,153 @@
+{
+  "node_id": "Nodo1",
+  "lamport_clock_final": 21,
+  "messages": [
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 1,
+      "message": "auaquit",
+      "datetime": "2026-05-25T10:03:36.384190"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 2,
+      "message": "Mensaje automático 1 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:40.821661"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 3,
+      "message": "Mensaje automático 2 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:41.322424"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 4,
+      "message": "Mensaje automático 3 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:41.822960"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 5,
+      "message": "Mensaje automático 4 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:42.323635"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 6,
+      "message": "Mensaje automático 5 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:42.824118"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 7,
+      "message": "Mensaje automático 6 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:43.324585"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 8,
+      "message": "Mensaje automático 7 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:43.825257"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 9,
+      "message": "Mensaje automático 8 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:44.326024"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 10,
+      "message": "Mensaje automático 9 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:44.826385"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 11,
+      "message": "Mensaje automático 10 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:45.327184"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 12,
+      "message": "Mensaje automático 11 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:45.827634"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 13,
+      "message": "Mensaje automático 12 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:46.328294"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 14,
+      "message": "Mensaje automático 13 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:46.828950"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 15,
+      "message": "Mensaje automático 14 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:47.329633"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 16,
+      "message": "Mensaje automático 15 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:47.830323"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 17,
+      "message": "Mensaje automático 16 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:48.331076"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 18,
+      "message": "Mensaje automático 17 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:48.831618"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 19,
+      "message": "Mensaje automático 18 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:49.332378"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 20,
+      "message": "Mensaje automático 19 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:49.833203"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo1",
+      "timestamp": 21,
+      "message": "Mensaje automático 20 del nodo Nodo1",
+      "datetime": "2026-05-25T10:03:50.333747"
+    }
+  ]
+}
