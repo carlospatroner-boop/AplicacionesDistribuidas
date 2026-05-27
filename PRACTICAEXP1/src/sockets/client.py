@@ -8,6 +8,7 @@ from datetime import datetime
 from typing import Dict, List, Optional
 import csv
 
+#Nota: Este código es para el cliente TCP que se conecta a un servidor TCP. Asegúrate de tener un servidor TCP corriendo en el host y puerto especificados antes de ejecutar este cliente.*
 
 class LamportClock:
     """Reloj lógico de Lamport para mantener el orden causal de eventos."""
