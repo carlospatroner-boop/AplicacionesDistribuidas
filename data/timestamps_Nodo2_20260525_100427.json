@@ -1,0 +1,146 @@
+{
+  "node_id": "Nodo2",
+  "lamport_clock_final": 20,
+  "messages": [
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 1,
+      "message": "Mensaje automático 1 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:47.519425"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 2,
+      "message": "Mensaje automático 2 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:48.019933"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 3,
+      "message": "Mensaje automático 3 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:48.520519"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 4,
+      "message": "Mensaje automático 4 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:49.021160"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 5,
+      "message": "Mensaje automático 5 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:49.521780"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 6,
+      "message": "Mensaje automático 6 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:50.022560"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 7,
+      "message": "Mensaje automático 7 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:50.523836"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 8,
+      "message": "Mensaje automático 8 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:51.024295"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 9,
+      "message": "Mensaje automático 9 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:51.524997"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 10,
+      "message": "Mensaje automático 10 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:52.025473"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 11,
+      "message": "Mensaje automático 11 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:52.525910"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 12,
+      "message": "Mensaje automático 12 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:53.026434"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 13,
+      "message": "Mensaje automático 13 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:53.527249"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 14,
+      "message": "Mensaje automático 14 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:54.027796"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 15,
+      "message": "Mensaje automático 15 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:54.528479"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 16,
+      "message": "Mensaje automático 16 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:55.029089"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 17,
+      "message": "Mensaje automático 17 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:55.529779"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 18,
+      "message": "Mensaje automático 18 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:56.030337"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 19,
+      "message": "Mensaje automático 19 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:56.530851"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo2",
+      "timestamp": 20,
+      "message": "Mensaje automático 20 del nodo Nodo2",
+      "datetime": "2026-05-25T10:03:57.031275"
+    }
+  ]
+}

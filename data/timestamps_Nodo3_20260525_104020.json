@@ -1,0 +1,306 @@
+{
+  "node_id": "Nodo3",
+  "lamport_clock_final": 40,
+  "messages": [
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 1,
+      "message": "Mensaje automático 1 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:22.687603"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 1,
+      "local_timestamp_after_update": 2,
+      "message": "Mensaje automático 1 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:22.697657"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 3,
+      "message": "Mensaje automático 2 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:22.833069"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 3,
+      "local_timestamp_after_update": 4,
+      "message": "Mensaje automático 2 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:22.835078"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 5,
+      "message": "Mensaje automático 3 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:23.211155"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 5,
+      "local_timestamp_after_update": 6,
+      "message": "Mensaje automático 3 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:23.213171"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 7,
+      "message": "Mensaje automático 4 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:23.496010"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 7,
+      "local_timestamp_after_update": 8,
+      "message": "Mensaje automático 4 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:23.497520"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 9,
+      "message": "Mensaje automático 5 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:23.705779"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 9,
+      "local_timestamp_after_update": 10,
+      "message": "Mensaje automático 5 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:23.707289"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 11,
+      "message": "Mensaje automático 6 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:23.818748"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 11,
+      "local_timestamp_after_update": 12,
+      "message": "Mensaje automático 6 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:23.820259"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 13,
+      "message": "Mensaje automático 7 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:24.060516"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 13,
+      "local_timestamp_after_update": 14,
+      "message": "Mensaje automático 7 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:24.062023"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 15,
+      "message": "Mensaje automático 8 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:24.371335"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 15,
+      "local_timestamp_after_update": 16,
+      "message": "Mensaje automático 8 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:24.372342"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 17,
+      "message": "Mensaje automático 9 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:24.497989"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 17,
+      "local_timestamp_after_update": 18,
+      "message": "Mensaje automático 9 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:24.500004"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 19,
+      "message": "Mensaje automático 10 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:24.775717"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 19,
+      "local_timestamp_after_update": 20,
+      "message": "Mensaje automático 10 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:24.777232"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 21,
+      "message": "Mensaje automático 11 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:24.887524"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 21,
+      "local_timestamp_after_update": 22,
+      "message": "Mensaje automático 11 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:24.889036"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 23,
+      "message": "Mensaje automático 12 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:25.014708"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 23,
+      "local_timestamp_after_update": 24,
+      "message": "Mensaje automático 12 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:25.016216"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 25,
+      "message": "Mensaje automático 13 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:25.175477"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 25,
+      "local_timestamp_after_update": 26,
+      "message": "Mensaje automático 13 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:25.176992"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 27,
+      "message": "Mensaje automático 14 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:25.500214"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 27,
+      "local_timestamp_after_update": 28,
+      "message": "Mensaje automático 14 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:25.501724"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 29,
+      "message": "Mensaje automático 15 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:25.833099"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 29,
+      "local_timestamp_after_update": 30,
+      "message": "Mensaje automático 15 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:25.834608"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 31,
+      "message": "Mensaje automático 16 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:25.999033"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 31,
+      "local_timestamp_after_update": 32,
+      "message": "Mensaje automático 16 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:26.000541"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 33,
+      "message": "Mensaje automático 17 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:26.181930"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 33,
+      "local_timestamp_after_update": 34,
+      "message": "Mensaje automático 17 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:26.183451"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 35,
+      "message": "Mensaje automático 18 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:26.546613"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 35,
+      "local_timestamp_after_update": 36,
+      "message": "Mensaje automático 18 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:26.548128"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 37,
+      "message": "Mensaje automático 19 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:26.822973"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 37,
+      "local_timestamp_after_update": 38,
+      "message": "Mensaje automático 19 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:26.824482"
+    },
+    {
+      "type": "sent",
+      "sender": "Nodo3",
+      "timestamp": 39,
+      "message": "Mensaje automático 20 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:27.218993"
+    },
+    {
+      "type": "received",
+      "sender": "Nodo3",
+      "received_timestamp": 39,
+      "local_timestamp_after_update": 40,
+      "message": "Mensaje automático 20 del nodo Nodo3",
+      "datetime": "2026-05-25T10:39:27.220502"
+    }
+  ]
+}

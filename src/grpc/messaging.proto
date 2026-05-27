@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package grpc;
+
+message MessageRequest {
+  string sender = 1;
+  int32 timestamp = 2;
+  string message = 3;
+}
+
+message MessageResponse {
+  string sender = 1;
+  int32 timestamp = 2;
+  string message = 3;
+}
+
+service MessagingService {
+  rpc SendMessage(MessageRequest) returns (MessageResponse);
+}
